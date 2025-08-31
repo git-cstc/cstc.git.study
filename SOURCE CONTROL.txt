@@ -7,6 +7,8 @@ Working Copy
 Local Server(Work copy-> Staging > Server
 Remote Server
 
+git clone if remote already exists
+
 git init
 
 git add file
