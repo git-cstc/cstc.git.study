@@ -17,3 +17,5 @@ Local Server
 
 Remote Server 
 git push
+
+git status
