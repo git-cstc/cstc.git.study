@@ -1,0 +1,19 @@
+SOURCE CONTROL
+GIT
+.git 
+3 Layers
+
+Working Copy
+Local Server(Work copy-> Staging > Server
+Remote Server
+
+git init
+
+git add file
+
+git commit -m ""
+
+Local Server
+
+Remote Server 
+git push
